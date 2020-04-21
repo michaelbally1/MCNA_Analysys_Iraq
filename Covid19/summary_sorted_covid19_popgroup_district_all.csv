@@ -1,0 +1,6 @@
+"governorate","district","a65","a65_min","a65_max","a65chronic","a65chronic_min","a65chronic_max","health_issue.chronic","health_issue.chronic_min","health_issue.chronic_max"
+"","","People above the age of 65","","","People above the age of 65 with a chronic health condition","","","People with a chronic health condition","",""
+"","",NA,"","",NA,"","",NA,"",""
+"","",NA,"","",NA,"","",NA,"",""
+"","","numerical","","","numerical","","","numerical","",""
+NA,NA,"0.0174990550880662","0.0153270247758612","0.0196710854002711","0.0103489457525354","0.00882907686288391","0.0118688146421869","0.0690479790841744","0.0623300302681213","0.0757659279002276"

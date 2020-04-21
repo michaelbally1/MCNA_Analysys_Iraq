@@ -1,0 +1,190 @@
+"","dependent.var","independent.var","dependent.var.value","independent.var.value","numbers","se","min","max","repeat.var","repeat.var.value","p.value"
+"dependent.var","a65","na","NA","NA","0.04 (0.02-0)",NA,0.0164859005543871,0.0690321074145148,"district","tooz.khurmato",NA
+"dependent.var1","a65","na","NA","NA","0.02 (0.01-0)",NA,0.0120195329360226,0.0323979153806245,"district","telafar",NA
+"dependent.var2","a65","na","NA","NA","0.01 (0-0)",NA,0.00232888456852869,0.0264480938487375,"district","kerbela",NA
+"dependent.var3","a65","na","NA","NA","0.02 (0.01-0)",NA,0.00624683713117826,0.023903916637666,"district","baquba",NA
+"dependent.var4","a65","na","NA","NA","0.04 (0.03-0)",NA,0.0277692241183808,0.0516774254820812,"district","kirkuk",NA
+"dependent.var5","a65","na","NA","NA","0.03 (0.02-0)",NA,0.0167408349242735,0.0340760217216892,"district","al.hamdaniya",NA
+"dependent.var6","a65","na","NA","NA","0.01 (0.01-0)",NA,0.00679037636333011,0.0183179390866159,"district","al.mosul",NA
+"dependent.var7","a65","na","NA","NA","0.02 (0.01-0)",NA,0.0114651986514534,0.0206375300804888,"district","dokan",NA
+"dependent.var8","a65","na","NA","NA","0.01 (0-0)",NA,0.0023157015806,0.0250505535634329,"district","balad",NA
+"dependent.var9","a65","na","NA","NA","0.03 (0.02-0)",NA,0.0150068087526816,0.0383265245806517,"district","shaqlawa",NA
+"dependent.var10","a65","na","NA","NA","0.02 (0.01-0)",NA,0.0145354252569786,0.0257038758419038,"district","dibis",NA
+"dependent.var11","a65","na","NA","NA","0.01 (0.01-0)",NA,0.00507570908179156,0.0231374570624091,"district","derbendikhan",NA
+"dependent.var12","a65","na","NA","NA","0.03 (0.02-0)",NA,0.0209185639392322,0.037764715511227,"district","beygee",NA
+"dependent.var13","a65","na","NA","NA","0.01 (0.01-0)",NA,0.00660207426118854,0.0215995960457449,"district","al.risafa",NA
+"dependent.var14","a65","na","NA","NA","0.03 (0.03-0)",NA,0.0262512721586062,0.0416346286696493,"district","zakho",NA
+"dependent.var15","a65","na","NA","NA","0.02 (0.02-0)",NA,0.0153644409944778,0.031364530968139,"district","al.rutba",NA
+"dependent.var16","a65","na","NA","NA","0.03 (0.02-0)",NA,0.0153758511794479,0.0363915862542502,"district","tikrit",NA
+"dependent.var17","a65","na","NA","NA","0.03 (0.02-0)",NA,0.0192894409507389,0.0322189261148778,"district","makhmour",NA
+"dependent.var18","a65","na","NA","NA","0",NA,0.00183807711786238,0.00701148040426151,"district","koysinjaq",NA
+"dependent.var19","a65","na","NA","NA","0.04 (0.03-0)",NA,0.0292721720833014,0.0419220966317968,"district","sumail",NA
+"dependent.var20","a65","na","NA","NA","0.01 (0.01-0)",NA,0.00616005782437988,0.0182298721835198,"district","al.shirqat",NA
+"dependent.var21","a65","na","NA","NA","0.02 (0.01-0)",NA,0.00970427019961744,0.022972590379407,"district","haditha",NA
+"dependent.var22","a65","na","NA","NA","0",NA,-0.00196438337774691,0.00953684716979469,"district","al.ramadi",NA
+"dependent.var23","a65","na","NA","NA","0.03 (0.02-0)",NA,0.0170878104529435,0.0450396483375673,"district","tilkaef",NA
+"dependent.var24","a65","na","NA","NA","0.02 (0.02-0)",NA,0.0189585704442746,0.0263059585894811,"district","al.kahla",NA
+"dependent.var25","a65","na","NA","NA","0.03 (0.03-0)",NA,0.0271908309004202,0.0394428099007722,"district","al.basrah",NA
+"dependent.var26","a65","na","NA","NA","0.02 (0.01-0)",NA,0.0101981702145788,0.025433956502489,"district","heet",NA
+"dependent.var27","a65","na","NA","NA","0",NA,0.00230138378582036,0.00557563465296154,"district","al.kadhmiyah",NA
+"dependent.var28","a65","na","NA","NA","0.03 (0.01-0)",NA,0.00765256413005759,0.04447309935589,"district","al.kaim",NA
+"dependent.var29","a65","na","NA","NA","0.05 (0.04-0)",NA,0.0353762519542884,0.0668799399828947,"district","al.amadiya",NA
+"dependent.var30","a65","na","NA","NA","0",NA,-0.000150713366479172,0.00105528495571357,"district","al.khalis",NA
+"dependent.var31","a65","na","NA","NA","0.01 (0.01-0)",NA,0.0100394151876015,0.019504220371282,"district","daquq",NA
+"dependent.var32","a65","na","NA","NA","0.02 (0.01-0)",NA,0.0109921270016554,0.0193109033013749,"district","rawanduz",NA
+"dependent.var33","a65","na","NA","NA","0.01 (0.01-0)",NA,0.00719210011649171,0.0170452314387083,"district","al.hindiya",NA
+"dependent.var34","a65","na","NA","NA","0.03 (0.02-0)",NA,0.0222598583753784,0.0372236778354592,"district","al.shikhan",NA
+"dependent.var35","a65","na","NA","NA","0.02 (0.01-0)",NA,0.00754561069666519,0.0283288287652182,"district","kifri",NA
+"dependent.var36","a65","na","NA","NA","0.03 (0.02-0)",NA,0.0157012100251042,0.0358451817274731,"district","al.hawiga",NA
+"dependent.var37","a65","na","NA","NA","0.02 (0.01-0)",NA,0.0125740903615307,0.0345727397394036,"district","khanaqin",NA
+"dependent.var38","a65","na","NA","NA","0.01 (0-0)",NA,0.00035560369481199,0.0166656729009327,"district","al.karkh",NA
+"dependent.var39","a65","na","NA","NA","0.02 (0.01-0)",NA,0.0116105122991823,0.0348771678252857,"district","kalar",NA
+"dependent.var40","a65","na","NA","NA","0.02 (0.01-0)",NA,0.0143163492658378,0.0318882711962084,"district","ana",NA
+"dependent.var41","a65","na","NA","NA","0.02 (0.01-0)",NA,0.0127540933590928,0.0365673715766685,"district","sinjar",NA
+"dependent.var42","a65","na","NA","NA","0.02 (0.01-0)",NA,0.0116640745882515,0.0324706524733048,"district","al.kufa",NA
+"dependent.var43","a65","na","NA","NA","0",NA,3.29570068823651e-05,0.00145163753342005,"district","al.falluja",NA
+"dependent.var44","a65","na","NA","NA","0.02 (0.01-0)",NA,0.00900339143787156,0.0290766829806066,"district","erbil",NA
+"dependent.var45","a65","na","NA","NA","0.01 (0.01-0)",NA,0.00748255226337543,0.0203760316179875,"district","al.sulaymaniyah",NA
+"dependent.var46","a65","na","NA","NA","0.01 (0-0)",NA,0.00210401954481046,0.0129053613182289,"district","halabcha",NA
+"dependent.var47","a65","na","NA","NA","0.01 (0-0)",NA,0.00288439261428193,0.0120968807939578,"district","al.hatra",NA
+"dependent.var48","a65","na","NA","NA","0",NA,-0.0017819812002409,0.00879952505989002,"district","al.muqdadiya",NA
+"dependent.var49","a65","na","NA","NA","0.02 (0.01-0)",NA,0.0146560894217548,0.0199435110590158,"district","al.baaj",NA
+"dependent.var50","a65","na","NA","NA","0.02 (0.01-0)",NA,0.0100835643997986,0.0347164356002014,"district","rania",NA
+"dependent.var51","a65","na","NA","NA","0.02 (0.02-0)",NA,0.0154991894753568,0.0299549957924324,"district","al.najaf",NA
+"dependent.var52","a65","na","NA","NA","0.02 (0.02-0)",NA,0.0163674710452148,0.0248492378036295,"district","al.adhamiya",NA
+"dependent.var53","a65","na","NA","NA","0.01 (0-0)",NA,0.00108184573013006,0.0149638204608948,"district","al.nasiriya",NA
+"dependent.var54","a65","na","NA","NA","0.01 (0-0)",NA,0.000550442328755848,0.014264372486059,"district","al.kut",NA
+"dependent.var55","a65","na","NA","NA","0.01 (0-0)",NA,-0.000544182360714548,0.0113549931715254,"district","al.suwaira",NA
+"dependent.var56","a65","na","NA","NA","0.02 (0.01-0)",NA,0.00612947106438269,0.0258008627527436,"district","chamchamal",NA
+"dependent.var57","a65","na","NA","NA","0.02 (0.01-0)",NA,0.0099820368529967,0.029395709438593,"district","al.mahmoudiya",NA
+"dependent.var58","a65","na","NA","NA","0.01 (0-0)",NA,0.00146503912907268,0.0159768213360436,"district","al.diwaniya",NA
+"dependent.var59","a65","na","NA","NA","0",NA,-0.0017073347841838,0.00782354273525413,"district","al.mussyab",NA
+"dependent.var60","a65","na","NA","NA","0.01 (0-0)",NA,0.00344181181476496,0.0251098030923595,"district","aqra",NA
+"dependent.var61","a65","na","NA","NA","0.03 (0.02-0)",NA,0.0158121099999234,0.036819468947445,"district","duhok",NA
+"dependent.var62","a65","na","NA","NA","0.01 (-0.01-0)",NA,-0.0088240852031335,0.0299881063671547,"district","samarra",NA
+"dependent.var63","a65chronic","na","NA","NA","0.03 (0-0)",NA,-0.000455703028542042,0.0543300329603064,"district","tooz.khurmato",NA
+"dependent.var64","a65chronic","na","NA","NA","0.01 (0-0)",NA,0.00230970154604212,0.0146588355776387,"district","telafar",NA
+"dependent.var65","a65chronic","na","NA","NA","0.01 (0-0)",NA,0.00209305670538163,0.0218877586423402,"district","kerbela",NA
+"dependent.var66","a65chronic","na","NA","NA","0",NA,0,0,"district","baquba",NA
+"dependent.var67","a65chronic","na","NA","NA","0.02 (0.01-0)",NA,0.0138703464835546,0.0310961107521304,"district","kirkuk",NA
+"dependent.var68","a65chronic","na","NA","NA","0.02 (0.01-0)",NA,0.0110854096382876,0.0268611750064093,"district","al.hamdaniya",NA
+"dependent.var69","a65chronic","na","NA","NA","0.01 (0-0)",NA,0.00369583975384969,0.0105585980423132,"district","al.mosul",NA
+"dependent.var70","a65chronic","na","NA","NA","0.01 (0.01-0)",NA,0.00846865362718476,0.017213529358369,"district","dokan",NA
+"dependent.var71","a65chronic","na","NA","NA","0.01 (0-0)",NA,0.0023157015806,0.0250505535634329,"district","balad",NA
+"dependent.var72","a65chronic","na","NA","NA","0.02 (0.01-0)",NA,0.0125572085569903,0.0331570771572954,"district","shaqlawa",NA
+"dependent.var73","a65chronic","na","NA","NA","0.02 (0.01-0)",NA,0.0119241439095856,0.024403247597874,"district","dibis",NA
+"dependent.var74","a65chronic","na","NA","NA","0",NA,0.000382535208697827,0.00902185350603571,"district","derbendikhan",NA
+"dependent.var75","a65chronic","na","NA","NA","0.02 (0.01-0)",NA,0.0149058745258286,0.0312653994852405,"district","beygee",NA
+"dependent.var76","a65chronic","na","NA","NA","0",NA,0,0,"district","al.risafa",NA
+"dependent.var77","a65chronic","na","NA","NA","0.02 (0.02-0)",NA,0.0182479260516405,0.030155143467025,"district","zakho",NA
+"dependent.var78","a65chronic","na","NA","NA","0.01 (0.01-0)",NA,0.00739165015311174,0.0206457330244584,"district","al.rutba",NA
+"dependent.var79","a65chronic","na","NA","NA","0.02 (0-0)",NA,0.00400704046587213,0.0268116003155526,"district","tikrit",NA
+"dependent.var80","a65chronic","na","NA","NA","0.02 (0.01-0)",NA,0.012447309756725,0.0220486733661857,"district","makhmour",NA
+"dependent.var81","a65chronic","na","NA","NA","0",NA,-1.5591697898817e-05,0.00591529671264808,"district","koysinjaq",NA
+"dependent.var82","a65chronic","na","NA","NA","0.03 (0.02-0)",NA,0.0204087387389124,0.0307403955811459,"district","sumail",NA
+"dependent.var83","a65chronic","na","NA","NA","0.01 (0-0)",NA,0.00296281788617307,0.0116864632279378,"district","al.shirqat",NA
+"dependent.var84","a65chronic","na","NA","NA","0.01 (0-0)",NA,0.00217330329063923,0.0191505498942205,"district","haditha",NA
+"dependent.var85","a65chronic","na","NA","NA","0",NA,0,0,"district","al.ramadi",NA
+"dependent.var86","a65chronic","na","NA","NA","0.02 (0.01-0)",NA,0.0136580288094581,0.032698691272198,"district","tilkaef",NA
+"dependent.var87","a65chronic","na","NA","NA","0",NA,-0.00171456803237016,0.00491879756679566,"district","al.kahla",NA
+"dependent.var88","a65chronic","na","NA","NA","0.03 (0.03-0)",NA,0.0271908309004202,0.0394428099007722,"district","al.basrah",NA
+"dependent.var89","a65chronic","na","NA","NA","0",NA,-1.67613126401274e-05,0.00013075303684095,"district","heet",NA
+"dependent.var90","a65chronic","na","NA","NA","0",NA,0,0,"district","al.kadhmiyah",NA
+"dependent.var91","a65chronic","na","NA","NA","0.01 (0-0)",NA,0.00198148870860568,0.0223438209181699,"district","al.kaim",NA
+"dependent.var92","a65chronic","na","NA","NA","0.04 (0.02-0)",NA,0.0239977901048287,0.0484509636144519,"district","al.amadiya",NA
+"dependent.var93","a65chronic","na","NA","NA","0",NA,0,0,"district","al.khalis",NA
+"dependent.var94","a65chronic","na","NA","NA","0.01 (0.01-0)",NA,0.00808489383944682,0.0186749927942432,"district","daquq",NA
+"dependent.var95","a65chronic","na","NA","NA","0.01 (0-0)",NA,0.0038513563782044,0.0163506638238158,"district","rawanduz",NA
+"dependent.var96","a65chronic","na","NA","NA","0.01 (0.01-0)",NA,0.00719210011649171,0.0170452314387083,"district","al.hindiya",NA
+"dependent.var97","a65chronic","na","NA","NA","0.02 (0.01-0)",NA,0.0140936842211422,0.02335781717752,"district","al.shikhan",NA
+"dependent.var98","a65chronic","na","NA","NA","0.01 (0.01-0)",NA,0.00564808846287316,0.0212577411335394,"district","kifri",NA
+"dependent.var99","a65chronic","na","NA","NA","0.01 (0.01-0)",NA,0.00832253510788408,0.0200279803560334,"district","al.hawiga",NA
+"dependent.var100","a65chronic","na","NA","NA","0.02 (0.01-0)",NA,0.00925003717365473,0.027339550617311,"district","khanaqin",NA
+"dependent.var101","a65chronic","na","NA","NA","0",NA,0,0,"district","al.karkh",NA
+"dependent.var102","a65chronic","na","NA","NA","0.01 (0-0)",NA,0.00460147495684396,0.0243108974246857,"district","kalar",NA
+"dependent.var103","a65chronic","na","NA","NA","0.02 (0.01-0)",NA,0.00932111159617255,0.0236821887338605,"district","ana",NA
+"dependent.var104","a65chronic","na","NA","NA","0.01 (0-0)",NA,0.00461125739512709,0.0240996605089183,"district","sinjar",NA
+"dependent.var105","a65chronic","na","NA","NA","0.02 (0.01-0)",NA,0.0098850183808512,0.0249581871940617,"district","al.kufa",NA
+"dependent.var106","a65chronic","na","NA","NA","0",NA,-2.83679595844948e-05,0.000430862467784924,"district","al.falluja",NA
+"dependent.var107","a65chronic","na","NA","NA","0.02 (0.01-0)",NA,0.00542503792458453,0.0259771979081928,"district","erbil",NA
+"dependent.var108","a65chronic","na","NA","NA","0",NA,-6.36320562814028e-05,0.00478760995194128,"district","al.sulaymaniyah",NA
+"dependent.var109","a65chronic","na","NA","NA","0",NA,0,0,"district","halabcha",NA
+"dependent.var110","a65chronic","na","NA","NA","0",NA,0.000821672882464091,0.00916584272302904,"district","al.hatra",NA
+"dependent.var111","a65chronic","na","NA","NA","0",NA,-0.0017819812002409,0.00879952505989002,"district","al.muqdadiya",NA
+"dependent.var112","a65chronic","na","NA","NA","0.01 (0.01-0)",NA,0.00966733525040405,0.0176645604767614,"district","al.baaj",NA
+"dependent.var113","a65chronic","na","NA","NA","0.01 (0.01-0)",NA,0.00691612692220115,0.0218838730777989,"district","rania",NA
+"dependent.var114","a65chronic","na","NA","NA","0.01 (0.01-0)",NA,0.00629675127910394,0.0219426488232708,"district","al.najaf",NA
+"dependent.var115","a65chronic","na","NA","NA","0",NA,0.00212413554137255,0.00359341470357039,"district","al.adhamiya",NA
+"dependent.var116","a65chronic","na","NA","NA","0",NA,0.00238072619150169,0.00428438234923793,"district","al.nasiriya",NA
+"dependent.var117","a65chronic","na","NA","NA","0",NA,0,0,"district","al.kut",NA
+"dependent.var118","a65chronic","na","NA","NA","0",NA,-0.00167796070369136,0.00708336610909676,"district","al.suwaira",NA
+"dependent.var119","a65chronic","na","NA","NA","0.01 (0-0)",NA,0.00458544937207522,0.015733853966096,"district","chamchamal",NA
+"dependent.var120","a65chronic","na","NA","NA","0.02 (0.01-0)",NA,0.00776083865447092,0.0240959327814756,"district","al.mahmoudiya",NA
+"dependent.var121","a65chronic","na","NA","NA","0",NA,-0.000756441588249944,0.00657039507662203,"district","al.diwaniya",NA
+"dependent.var122","a65chronic","na","NA","NA","0",NA,0,0,"district","al.mussyab",NA
+"dependent.var123","a65chronic","na","NA","NA","0.01 (0-0)",NA,0.00218461309830842,0.0235858357086651,"district","aqra",NA
+"dependent.var124","a65chronic","na","NA","NA","0.02 (0.01-0)",NA,0.00725831314106657,0.0259826840888503,"district","duhok",NA
+"dependent.var125","a65chronic","na","NA","NA","0",NA,0,0,"district","samarra",NA
+"dependent.var126","health_issue.chronic","na","NA","NA","0.12 (0.01-0)",NA,0.0144433108825413,0.220680833815843,"district","tooz.khurmato",NA
+"dependent.var127","health_issue.chronic","na","NA","NA","0.08 (0.06-0)",NA,0.0595097009410392,0.100299428481128,"district","telafar",NA
+"dependent.var128","health_issue.chronic","na","NA","NA","0.05 (0.03-0)",NA,0.0325754186988471,0.0681440057615846,"district","kerbela",NA
+"dependent.var129","health_issue.chronic","na","NA","NA","0.02 (0.01-0)",NA,0.00668184879205779,0.0335191562330678,"district","baquba",NA
+"dependent.var130","health_issue.chronic","na","NA","NA","0.11 (0.09-0)",NA,0.0910229707296272,0.127500600662002,"district","kirkuk",NA
+"dependent.var131","health_issue.chronic","na","NA","NA","0.1 (0.08-0)",NA,0.0827444331804513,0.122633823598615,"district","al.hamdaniya",NA
+"dependent.var132","health_issue.chronic","na","NA","NA","0.08 (0.06-0)",NA,0.0569296909351808,0.0945905053957081,"district","al.mosul",NA
+"dependent.var133","health_issue.chronic","na","NA","NA","0.1 (0.08-0)",NA,0.083784937232639,0.124882799524985,"district","dokan",NA
+"dependent.var134","health_issue.chronic","na","NA","NA","0.08 (0.03-0)",NA,0.0299336601010504,0.131602334768278,"district","balad",NA
+"dependent.var135","health_issue.chronic","na","NA","NA","0.13 (0.11-0)",NA,0.107520817261388,0.159145849405279,"district","shaqlawa",NA
+"dependent.var136","health_issue.chronic","na","NA","NA","0.13 (0.09-0)",NA,0.0941065176817561,0.158321150414326,"district","dibis",NA
+"dependent.var137","health_issue.chronic","na","NA","NA","0.06 (0.03-0)",NA,0.0293408907781994,0.0866465700368476,"district","derbendikhan",NA
+"dependent.var138","health_issue.chronic","na","NA","NA","0.09 (0.07-0)",NA,0.0732195592597816,0.10428405949653,"district","beygee",NA
+"dependent.var139","health_issue.chronic","na","NA","NA","0.01 (0-0)",NA,0.00230198480743674,0.0112918182600505,"district","al.risafa",NA
+"dependent.var140","health_issue.chronic","na","NA","NA","0.11 (0.09-0)",NA,0.0937324766208443,0.121925851942445,"district","zakho",NA
+"dependent.var141","health_issue.chronic","na","NA","NA","0.12 (0.09-0)",NA,0.0941155342222186,0.142644590388373,"district","al.rutba",NA
+"dependent.var142","health_issue.chronic","na","NA","NA","0.09 (0.07-0)",NA,0.0701100770199278,0.117841736812645,"district","tikrit",NA
+"dependent.var143","health_issue.chronic","na","NA","NA","0.08 (0.06-0)",NA,0.0609624704144352,0.0945050612574123,"district","makhmour",NA
+"dependent.var144","health_issue.chronic","na","NA","NA","0.09 (0.06-0)",NA,0.0563687862549755,0.117672511680128,"district","koysinjaq",NA
+"dependent.var145","health_issue.chronic","na","NA","NA","0.12 (0.11-0)",NA,0.109438568362222,0.130964556070851,"district","sumail",NA
+"dependent.var146","health_issue.chronic","na","NA","NA","0.1 (0.09-0)",NA,0.0850849999328053,0.109069983464169,"district","al.shirqat",NA
+"dependent.var147","health_issue.chronic","na","NA","NA","0.07 (0.04-0)",NA,0.0445040817410541,0.0922580818225748,"district","haditha",NA
+"dependent.var148","health_issue.chronic","na","NA","NA","0.01 (0-0)",NA,0.00100293762932955,0.013809703529264,"district","al.ramadi",NA
+"dependent.var149","health_issue.chronic","na","NA","NA","0.13 (0.12-0)",NA,0.117246813919551,0.148944030045754,"district","tilkaef",NA
+"dependent.var150","health_issue.chronic","na","NA","NA","0.01 (-0.01-0)",NA,-0.00685827212948064,0.0196751902671826,"district","al.kahla",NA
+"dependent.var151","health_issue.chronic","na","NA","NA","0.11 (0.06-0)",NA,0.061615061885896,0.153483249368109,"district","al.basrah",NA
+"dependent.var152","health_issue.chronic","na","NA","NA","0.01 (0-0)",NA,0.00439581956755932,0.0231344034345032,"district","heet",NA
+"dependent.var153","health_issue.chronic","na","NA","NA","0",NA,0.000123088662273342,0.00695837631760752,"district","al.kadhmiyah",NA
+"dependent.var154","health_issue.chronic","na","NA","NA","0.06 (0.03-0)",NA,0.0338393295281638,0.0823898938187126,"district","al.kaim",NA
+"dependent.var155","health_issue.chronic","na","NA","NA","0.13 (0.1-0)",NA,0.102213458118252,0.149701398363726,"district","al.amadiya",NA
+"dependent.var156","health_issue.chronic","na","NA","NA","0",NA,-0.000114280258525383,0.00138068048345354,"district","al.khalis",NA
+"dependent.var157","health_issue.chronic","na","NA","NA","0.09 (0.07-0)",NA,0.0709677429674547,0.101040844379812,"district","daquq",NA
+"dependent.var158","health_issue.chronic","na","NA","NA","0.11 (0.05-0)",NA,0.0549659298454522,0.15715528227576,"district","rawanduz",NA
+"dependent.var159","health_issue.chronic","na","NA","NA","0.04 (0.03-0)",NA,0.0343320867643399,0.0461903165305021,"district","al.hindiya",NA
+"dependent.var160","health_issue.chronic","na","NA","NA","0.1 (0.09-0)",NA,0.0871372066018259,0.120979304999881,"district","al.shikhan",NA
+"dependent.var161","health_issue.chronic","na","NA","NA","0.05 (0.03-0)",NA,0.0332480594844177,0.0698909539684971,"district","kifri",NA
+"dependent.var162","health_issue.chronic","na","NA","NA","0.12 (0.09-0)",NA,0.0907665654047984,0.143769517069428,"district","al.hawiga",NA
+"dependent.var163","health_issue.chronic","na","NA","NA","0.08 (0.06-0)",NA,0.055559742913746,0.102013103933933,"district","khanaqin",NA
+"dependent.var164","health_issue.chronic","na","NA","NA","0",NA,-0.00119334274078578,0.00544866188972195,"district","al.karkh",NA
+"dependent.var165","health_issue.chronic","na","NA","NA","0.05 (0.03-0)",NA,0.0262274429071397,0.0700122341513883,"district","kalar",NA
+"dependent.var166","health_issue.chronic","na","NA","NA","0.13 (0.09-0)",NA,0.0853255614921524,0.168799851049102,"district","ana",NA
+"dependent.var167","health_issue.chronic","na","NA","NA","0.08 (0.07-0)",NA,0.0694150235399621,0.0948518138592477,"district","sinjar",NA
+"dependent.var168","health_issue.chronic","na","NA","NA","0.08 (0.07-0)",NA,0.0671819372916628,0.0861281672379539,"district","al.kufa",NA
+"dependent.var169","health_issue.chronic","na","NA","NA","0",NA,0.000166408321899803,0.00117591865099205,"district","al.falluja",NA
+"dependent.var170","health_issue.chronic","na","NA","NA","0.11 (0.09-0)",NA,0.0923980224014394,0.137576413180179,"district","erbil",NA
+"dependent.var171","health_issue.chronic","na","NA","NA","0.03 (0.02-0)",NA,0.016236036032541,0.0406622423905821,"district","al.sulaymaniyah",NA
+"dependent.var172","health_issue.chronic","na","NA","NA","0.04 (0.03-0)",NA,0.0293867161088288,0.0569172238536478,"district","halabcha",NA
+"dependent.var173","health_issue.chronic","na","NA","NA","0.06 (0.05-0)",NA,0.0502548042738707,0.0795828985975401,"district","al.hatra",NA
+"dependent.var174","health_issue.chronic","na","NA","NA","0.05 (0.01-0)",NA,0.0109950070087989,0.0802330631666397,"district","al.muqdadiya",NA
+"dependent.var175","health_issue.chronic","na","NA","NA","0.06 (0.05-0)",NA,0.0535607256115579,0.0592447038716137,"district","al.baaj",NA
+"dependent.var176","health_issue.chronic","na","NA","NA","0.1 (0.08-0)",NA,0.0813938269095144,0.120206173090486,"district","rania",NA
+"dependent.var177","health_issue.chronic","na","NA","NA","0.07 (0.05-0)",NA,0.0512371492471994,0.0905641568532375,"district","al.najaf",NA
+"dependent.var178","health_issue.chronic","na","NA","NA","0.01 (0.01-0)",NA,0.00524501886417731,0.00738393875995225,"district","al.adhamiya",NA
+"dependent.var179","health_issue.chronic","na","NA","NA","0.04 (0.03-0)",NA,0.030949440489522,0.0556969705400932,"district","al.nasiriya",NA
+"dependent.var180","health_issue.chronic","na","NA","NA","0.03 (0.01-0)",NA,0.0101756866274734,0.0540218442367241,"district","al.kut",NA
+"dependent.var181","health_issue.chronic","na","NA","NA","0.04 (0.02-0)",NA,0.018545532954706,0.0517247373155643,"district","al.suwaira",NA
+"dependent.var182","health_issue.chronic","na","NA","NA","0.07 (0.05-0)",NA,0.0517961458794252,0.0875362198680349,"district","chamchamal",NA
+"dependent.var183","health_issue.chronic","na","NA","NA","0.08 (0.05-0)",NA,0.0519853353657024,0.112971712256826,"district","al.mahmoudiya",NA
+"dependent.var184","health_issue.chronic","na","NA","NA","0.03 (0.01-0)",NA,0.0148092659886726,0.0375163154066762,"district","al.diwaniya",NA
+"dependent.var185","health_issue.chronic","na","NA","NA","0.01 (0-0)",NA,-0.000389297653649697,0.024854129457931,"district","al.mussyab",NA
+"dependent.var186","health_issue.chronic","na","NA","NA","0.1 (0.08-0)",NA,0.0815661240422543,0.110407966601327,"district","aqra",NA
+"dependent.var187","health_issue.chronic","na","NA","NA","0.11 (0.08-0)",NA,0.0832797003139486,0.138326947885497,"district","duhok",NA
+"dependent.var188","health_issue.chronic","na","NA","NA","0.06 (0.04-0)",NA,0.0402313803108953,0.0761707360912211,"district","samarra",NA

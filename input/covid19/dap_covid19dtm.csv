@@ -1,0 +1,3 @@
+Indicator Group / Sector,research.question,sub.research.question,repeat.for.variable,independent.variable,independent.variable.type,dependent.variable,dependent.variable.type,hypothesis.type
+Out-camp IDPs,,,,District,categorical,outcamp_ind,numerical,direct_reporting
+In-camp IDPs,,,,District,categorical,incamp_ind,numerical,direct_reporting
